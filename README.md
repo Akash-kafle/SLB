@@ -22,6 +22,10 @@ Make sure to consult the repository's README or documentation for any additional
 6. Push to the branch
 7. Submit a pull request
 
+# Notes
+
+This is not a production-ready application. It is a simple project to demonstrate how to build a load balancer in Go. The load balancer doesn't check if the displayed page is okay or not if it's not okay it will still display the page but if you refresh the page it will display the next page.
+
 # Disclaimer
 
 This project is for educational purposes only. It is not intended for production use. Use at your own risk.
